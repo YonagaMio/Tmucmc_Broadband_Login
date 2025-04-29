@@ -4,6 +4,10 @@
 
 校园网/电信宽带/寝室wifi **自动登录 + 破解**
 
+Releases 中有打包好的EXE文件，无需配置Python环境就可使用
+
+[前往下载](https://github.com/YonagaMio/Tmucmc_Broadband_Login/releases)
+
 天下苦**设备连接数限制、价格、手动登录**久矣，故出此下策
 
 **~~同学，学号给一下，加学分~~**
